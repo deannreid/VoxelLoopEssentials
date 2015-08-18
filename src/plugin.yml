@@ -1,0 +1,12 @@
+name: VoxelloopEssentials
+version: 1.0.0-Preview
+main: couk.voxelloop.essentials.VoxelLoopEssentials
+author: Curtis English
+description: VoxelLoop Essentials by Curtis English Fixed by Dean
+commands:
+    vle:
+       description: Just an Intro
+       usage: /vle
+    testies:
+        description: Just your test Command
+        usage: /testies
